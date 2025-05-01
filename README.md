@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinthan000
 - 👀 I’m interested in ...coding and tech ....still in a learning path
-- 🌱 I’m currently learning ... python and ml
+- 🌱 I’m currently learning ... python,cpp,c,IOT and ml
 - 💞️ I’m looking to collaborate on ...software projects
 - 📫 How to reach me ...chinthanps0@gmail.com
 - 😄 Pronouns: ...he 
